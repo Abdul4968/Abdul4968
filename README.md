@@ -16,11 +16,12 @@ I live in Germany and I am Turkish!
 
 
 
-
+<!--
 [![][-badge]][-link]
 
 [-badge]: 
 [-link]: 
+-->
 
 [python-badge]: https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow
 [python-link]: https://www.python.org/
