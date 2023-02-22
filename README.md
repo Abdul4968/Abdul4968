@@ -2,7 +2,7 @@
 I am a hobby programmer and hobby artist
 I live in Germany and I am Turkish!
 
-## Lanuages:
+## Languages:
 ![DE-DE](https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png)
 ![EN-US](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png)
 #### Currently learning:
