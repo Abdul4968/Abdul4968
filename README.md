@@ -1,4 +1,4 @@
-<a href="https://github.com/Abdul4968"><img src="https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true" width="" height="250"><a>
+<a href="https://github.com/Abdul4968"><img src="https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true" width="" height=""><a>
 ### Hi there, I'm Abdul4968 👋
 Im a hobby Programmer and hobby Artist, I live in Germany and I am Turkish!
 
