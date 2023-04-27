@@ -1,7 +1,7 @@
 <a href="https://github.com/Abdul4968"><img src="https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true" width="" height=""><a>
 ### Hi there, I'm Abdul4968 👋
 Im a hobby Programmer and hobby Artist, I live in Germany and I am Turkish!
-My Discord: Abdul4968#2920
+##### My Discord: Abdul4968#2920
 
 <a href="https://github.com/Abdul4968"><img src="https://github-readme-stats.vercel.app/api?username=Abdul4968&show_icons=true&layout=compact&theme=dark" width="" height=""><a>
 <a href="https://github.com/Abdul4968"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul4968&layout=compact&theme=dark" width="" height=""><a>
