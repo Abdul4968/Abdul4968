@@ -1,4 +1,4 @@
-[![Banner](https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true)](https://github.com/Abdul4968)
+[![Banner](https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true)](https://github.com/Abdul4968 "Pretty Nice Pixel Art")
   
 # Hi, I'm Abdul4968! 👋
   
@@ -11,8 +11,15 @@ I live in Germany and I am Turkish!
 
 
 ## 🔗 Links
-[![Discord](https://img.shields.io/badge/Discord%20(Abdul4968|2920)-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app)
-[![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit&logoColor=orange)](https://replit.com/@Abdul4968)
+[![Discord](https://img.shields.io/badge/Discord%20(Abdul4968|2920)-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app "You Can reach me here")
+[![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit&logoColor=orange)](https://replit.com/@Abdul4968 "Code thats in Work!")
+
+
+## 👩‍💻 Currently
+I'm Woking on my [Website](https://github.com/Abdul4968/abdul4968.github.io "its Pretty SH*T")
+##### After that im gonna Work on my (Hub)...
+  
+
   
   
 ## 🛠 Skills
