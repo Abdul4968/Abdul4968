@@ -37,6 +37,8 @@ I'm currently Woking on my Project named [ToolHive](https://github.com/Abdul4968
 
 ### Programming Languages I am currently Learning
 <a href="https://cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="90" height="75"><a>
+<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="90" height="75"><a>
+<a href="https://vuejs.org//"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="90" height="75"><a>
   
 <!--
 <a href="https://github.com/Abdul4968"><img src="https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true" width="" height=""><a>
