@@ -5,24 +5,30 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=Abdul4968&show_icons=true&layout=compact&theme=dark)](https://github.com/Abdul4968)
 [![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul4968&layout=compact&theme=dark)]([https://replit.com/@Abdul4968](https://github.com/Abdul4968))
 
+
 ## 🚀 About Me
+
 I'm a hobby Programmer and hobby Artist
 I live in Germany and I am Turkish!
 
 
 ## 🔗 Links
+
 [![Discord](https://img.shields.io/badge/Discord%20(Abdul4968)-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app "You Can reach me here")
 [![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit&logoColor=orange)](https://replit.com/@Abdul4968 "Code thats in Work!")
 
 
 ## 👩‍💻 Currently
-I'm currently Woking on my Project named [ToolHive](https://github.com/Abdul4968/ToolHive "A hub with tools and games and more *maybe*") and [TaskFuse](https://github.com/TaskFuse) with [Darrenefecto](https://github.com/darrenefecto)
-##### After that im gonna Work on my [Website](https://github.com/Abdul4968/abdul4968.github.io "its Pretty SH*T")
-  
+
+I'm currently Woking on:
+#### [ToolHive](https://github.com/Abdul4968/ToolHive "A hub with tools and games and more *maybe*")
+#### [TaskFuse](https://github.com/TaskFuse "Nice Website for Task lists :]") with [Darrenefecto](https://github.com/darrenefecto "My Homie!!!")
+
 
 ## 🛠 Skills
  
 ### Languages I speak
+
 <a href="https://en.wikipedia.org/wiki/German_language"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png" width="110" height="70"><a>
 <a href="https://en.wikipedia.org/wiki/English_language"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png" width="110" height="70"><a>
 <a href="https://en.wikipedia.org/wiki/Turkish_language"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/125px-Flag_of_Turkey.svg.png" width="110" height="70"><a>
@@ -42,6 +48,8 @@ I'm currently Woking on my Project named [ToolHive](https://github.com/Abdul4968
 
   
 <!--
+#### After that im gonna Work on my [Website](https://github.com/Abdul4968/abdul4968.github.io "its Pretty SH*T")
+
 <a href="https://github.com/Abdul4968"><img src="https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true" width="" height=""><a>
 ### Hi there, I'm Abdul4968 👋
 Im a hobby Programmer and hobby Artist, I live in Germany and I am Turkish!
