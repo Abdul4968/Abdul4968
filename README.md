@@ -16,12 +16,10 @@ I live in Germany and I am Turkish!
 
 
 ## 👩‍💻 Currently
-I'm currently Woking on my Project named [ToolHive](https://github.com/Abdul4968/ToolHive "A hub with tools and games and more *maybe*")
+I'm currently Woking on my Project named [ToolHive](https://github.com/Abdul4968/ToolHive "A hub with tools and games and more *maybe*") and [TaskFuse](https://github.com/TaskFuse) with [Darrenefecto](https://github.com/darrenefecto)
 ##### After that im gonna Work on my [Website](https://github.com/Abdul4968/abdul4968.github.io "its Pretty SH*T")
   
 
-  
-  
 ## 🛠 Skills
  
 ### Languages I speak
@@ -39,6 +37,9 @@ I'm currently Woking on my Project named [ToolHive](https://github.com/Abdul4968
 <a href="https://cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="90" height="75"><a>
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="90" height="75"><a>
 <a href="https://vuejs.org//"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="90" height="75"><a>
+
+
+
   
 <!--
 <a href="https://github.com/Abdul4968"><img src="https://github.com/Abdul4968/Abdul4968/blob/main/Banner.png?raw=true" width="" height=""><a>
