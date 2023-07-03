@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-I'm a hobby Programmer and hobby Artist
-I live in Germany and I am Turkish!
+### I'm a hobby Programmer and hobby Artist
+### I live in Germany and I am Turkish!
 
 
 ## 🔗 Links
@@ -20,7 +20,7 @@ I live in Germany and I am Turkish!
 
 ## 👩‍💻 Currently
 
-I'm currently Woking on:
+### I'm currently Woking on:
 #### [ToolHive](https://github.com/Abdul4968/ToolHive "A hub with tools and games and more *maybe*")
 #### [TaskFuse](https://github.com/TaskFuse "Nice Website for Task lists :]") with [Darrenefecto](https://github.com/darrenefecto "My Homie!!!")
 
