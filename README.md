@@ -21,8 +21,7 @@
 ## 👩‍💻 Currently
 
 ### I'm currently Woking on:
-#### [ToolHive](https://github.com/Abdul4968/ToolHive "A hub with tools and games and more *maybe*")
-#### [TaskFuse](https://github.com/TaskFuse "Nice Website for Task lists :]") with [Darrenefecto](https://github.com/darrenefecto "My Homie!!!")
+#### Private Projects
 
 
 ## 🛠 Skills
